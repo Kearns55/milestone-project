@@ -52,7 +52,10 @@ p{
       padding-top: 100px;
 }
 
-
+#about-me-text{
+     font-family: var(--secondary-font);   
+      color: var(--primary-color);
+}
 
 #commissions{
     padding-top: 100px;
