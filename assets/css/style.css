@@ -76,5 +76,11 @@ p{
     background-color: #34095E;
 }
 
+#success-head{
+    font-family: var(--primary-font);
+    color: var(--secondary-color);
+}
+}
+
 
 
