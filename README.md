@@ -105,33 +105,20 @@ source: [milestone-project amiresponsive](https://ui.dev/amiresponsive?url=https
 
 ### Colour Scheme
 
-⚠️INSTRUCTIONS ⚠️
+I used [coolors.co](https://coolors.co/34095e-212429-e4e3e0-94a6b9) to generate my color palette.
 
-Explain your colors and color scheme. Consider adding a link and screenshot for your color scheme using [coolors](https://coolors.co/generate).
+- `#34095E` primary text.
+- `#212429` secondary text.
+- `#e5e6e3` background colour.
+- `#94a3b1` hightlight colour
 
-When you add a color to the palette, the URL is dynamically updated, making it easier for you to return back to your color palette later if needed. See example below:
-
-⚠️ --- END --- ⚠️
-
-I used [coolors.co](https://coolors.co/080708-3772ff-df2935-fdca40-e6e8e6) to generate my color palette.
-
-- `#000000` primary text.
-- `#3772FF` primary highlights.
-- `#DF2935` secondary text.
-- `#FDCA40` secondary highlights.
-
-![screenshot](documentation/coolors.png)
+![screenshot](documentation/colours/colour-palette.png)
 
 ### Typography
 
-⚠️ INSTRUCTIONS ⚠️
 
-Explain any fonts and icon libraries used, like **Google Fonts**, **Font Awesome**, etc. Consider adding a link to each font used, the Font Awesome site (if used), or similar icon library.
-
-⚠️ --- END --- ⚠️
-
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
-- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
+- [Rock Salt](https://fonts.google.com/specimen/Rock+Salt) was used for the primary headers and titles.
+- [Lacquer](https://fonts.google.com/specimen/Lacquer) was used for all other secondary text.
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
 ## Wireframes
