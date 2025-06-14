@@ -71,30 +71,27 @@ source: [milestone-project amiresponsive](https://ui.dev/amiresponsive?url=https
 - Boost social media presence and gain more exposure.
 
 #### 2. Scope
-
 **[Features](#features)** (see below)
 
 **Content Requirements**
-- Clear, motivational text about the club’s mission.
-- Photos showcasing the community.
-- Event schedules and descriptions.
-- Forms for membership sign-up.
+- Informative "about me" page to engage and interest visitors of the site.
+- Photos showcasing my art.
+- Commission form for users to fill out and rquest their very own piece.
 
 #### 3. Structure
 
 **Information Architecture**
 - **Navigation Menu**:
   - Accessible links in the navbar.
+  - Drop-down menu for navbar links on mobile devices.
 - **Hierarchy**:
-  - Clear call-to-action buttons.
   - Prominent placement of social media links in the footer.
 
 **User Flow**
-1. User lands on the home page → learns about the club’s mission.
-2. Navigates to the schedule/timetable → sees sessions they can join.
-3. Views the events → checks upcoming/past event details.
-4. Signs up via the membership page.
-5. Browses the gallery → explores the community spirit.
+1. User lands on the home page → engages user with bright, bold, eye-catching artwork.
+2. Browses the gallery → inspired to find out more about the artist.
+3. Navigates to about me page → sees picture of myself and about me written section to build familiarity between myself anf visitors of the site.
+4. Proceeds to commissions form → fills out form and is met with success page including return to home page button.
 
 #### 4. Skeleton
 
