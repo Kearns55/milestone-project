@@ -58,17 +58,17 @@ source: [milestone-project amiresponsive](https://ui.dev/amiresponsive?url=https
 #### 1. Strategy
 
 **Purpose**
-- Encourage users to join the running club by showcasing its mission, community spirit, and benefits.
-- Provide a seamless user experience to keep users informed and engaged.
+- Showcase my art in a user friendly and understandable way.
+- Engage and encourage future clients to purchase my art.
 
 **Primary User Needs**
-- Learn about the club’s purpose and events.
-- Join the club and stay updated.
+- Learn about my background and my art style.
+- Showcase my art through a high-quality image gallery.
 - Access responsive, user-friendly content.
 
 **Business Goals**
-- Increase club membership.
-- Boost participation in events and social media engagement.
+- Recieve commissions from future clients.
+- Boost social media presence and gain more exposure.
 
 #### 2. Scope
 
