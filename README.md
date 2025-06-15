@@ -93,11 +93,11 @@ I've used Procreate (https://procreate.com) to design my site wireframes.
 
 | Page | Mobile  | Desktop |
 | --- | --- | --- |
-| Home | ![screenshot](documentation/wireframes/mobile-home.jpg) | ![screenshot](documentation/wireframes/desktop-home.png) |
-| About Me | ![screenshot](documentation/wireframes/mobile-about-me.jpg) | ![screenshot](documentation/wireframes/desktop-gallery.png) |
-| Commission | ![screenshot](documentation/wireframes/mobile-commission.jpg) | ![screenshot](documentation/wireframes/desktop-signup.png) |
-| Success | ![screenshot](documentation/wireframes/mobile-success.jpg) | ![screenshot](documentation/wireframes/desktop-confirmation.png) |
-| 404 | ![screenshot](documentation/wireframes/mobile-404.jpg) | ![screenshot](documentation/wireframes/desktop-404.png) |
+| Home | ![screenshot](documentation/wireframes/mobile-home.png) | ![screenshot](documentation/wireframes/desktop-home.png) |
+| About Me | ![screenshot](documentation/wireframes/mobile-about-me.png) | ![screenshot](documentation/wireframes/desktop-about-me.png) |
+| Commission | ![screenshot](documentation/wireframes/mobile-commission.png) | ![screenshot](documentation/wireframes/desktop-commission.png) |
+| Success | ![screenshot](documentation/wireframes/mobile-success.png) | ![screenshot](documentation/wireframes/desktop-success.png) |
+| 404 | ![screenshot](documentation/wireframes/mobile-404.png) | ![screenshot](documentation/wireframes/desktop-404.png) |
 
 ## User Stories
 
