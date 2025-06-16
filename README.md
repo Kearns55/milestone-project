@@ -12,7 +12,7 @@ Developer: Rebekah Kearns ([kearns55](https://www.github.com/kearns55))
 *I decided to make a portfolio website for my art as my first project because painting and coding are two of my biggest passions, also being able to showcase my coding skills alongside my paintings makes me very proud. I hope in the future I can make more creative based websites and more portfolios for other artists.This project has taken a lot of time and effort to produce and I hope you love it as much as I do!*
 
 
-![screenshot](documentation/responsiveness/site-mock-up.png)
+![screenshot](documentation/responsiveness/site-mock-up.PNG)
 
 source: [milestone-project amiresponsive](https://ui.dev/amiresponsive?url=https://kearns55.github.io/milestone-project)
 
@@ -77,7 +77,7 @@ I used [coolors.co](https://coolors.co/34095e-212429-e4e3e0-94a6b9) to generate 
 - `#e5e6e3` background colour.
 - `#94a3b1` hightlight colour
 
-![screenshot](documentation/colours/colour-palette.png)
+![screenshot](documentation/colours/colour-palette.PNG)
 
 ### Typography
 
@@ -93,11 +93,11 @@ I've used Procreate (https://procreate.com) to design my site wireframes.
 
 | Page | Mobile  | Desktop |
 | --- | --- | --- |
-| Home | ![screenshot](documentation/wireframes/mobile-home.png) | ![screenshot](documentation/wireframes/desktop-home.png) |
-| About Me | ![screenshot](documentation/wireframes/mobile-about-me.png) | ![screenshot](documentation/wireframes/desktop-about-me.png) |
-| Commission | ![screenshot](documentation/wireframes/mobile-commission.png) | ![screenshot](documentation/wireframes/desktop-commission.png) |
-| Success | ![screenshot](documentation/wireframes/mobile-success.png) | ![screenshot](documentation/wireframes/desktop-success.png) |
-| 404 | ![screenshot](documentation/wireframes/mobile-404.png) | ![screenshot](documentation/wireframes/desktop-404.png) |
+| Home | ![screenshot](documentation/wireframes/mobile-home.PNG) | ![screenshot](documentation/wireframes/desktop-home.PNG) |
+| About Me | ![screenshot](documentation/wireframes/mobile-about-me.PNG) | ![screenshot](documentation/wireframes/desktop-about-me.PNG) |
+| Commission | ![screenshot](documentation/wireframes/mobile-commission.PNG) | ![screenshot](documentation/wireframes/desktop-commission.PNG) |
+| Success | ![screenshot](documentation/wireframes/mobile-success.PNG) | ![screenshot](documentation/wireframes/desktop-success.PNG) |
+| 404 | ![screenshot](documentation/wireframes/mobile-404.PNG) | ![screenshot](documentation/wireframes/desktop-404.PNG) |
 
 ## User Stories
 
@@ -150,7 +150,7 @@ I've used Procreate (https://procreate.com) to design my site wireframes.
 
 [GitHub Projects](https://www.github.com/kearns55/milestone-project/projects) served as an Agile tool for this project. Through it, EPICs, User Stories, issues/bugs, and Milestone tasks were planned, then subsequently tracked on a regular basis using the Kanban project board.
 
-![screenshot](documentation/gh-projects.png)
+![screenshot](documentation/gh-projects.PNG)
 
 ### GitHub Issues
 
@@ -158,8 +158,8 @@ I've used Procreate (https://procreate.com) to design my site wireframes.
 
 | Link | Screenshot |
 | --- | --- |
-| [![GitHub issues](https://img.shields.io/github/issues/kearns55/milestone-project)](https://www.github.com/kearns55/milestone-project/issues) | ![screenshot](documentation/gh-issues-open.png) |
-| [![GitHub closed issues](https://img.shields.io/github/issues-closed/kearns55/milestone-project)](https://www.github.com/kearns55/milestone-project/issues?q=is%3Aissue+is%3Aclosed) | ![screenshot](documentation/gh-issues-closed.png) |
+| [![GitHub issues](https://img.shields.io/github/issues/kearns55/milestone-project)](https://www.github.com/kearns55/milestone-project/issues) | ![screenshot](documentation/gh-issues-open.PNG) |
+| [![GitHub closed issues](https://img.shields.io/github/issues-closed/kearns55/milestone-project)](https://www.github.com/kearns55/milestone-project/issues?q=is%3Aissue+is%3Aclosed) | ![screenshot](documentation/gh-issues-closed.PNG) |
 
 ### MoSCoW Prioritization
 
@@ -241,8 +241,8 @@ There are no remaining major differences between the local version when compared
 - Images
     - All images of artwork are my own.
 - Image Compression
-    - [TinyPNG](https://tinypng.com) (for images <5MB)
-    - [CompressPNG](https://compresspng.com) (for images >5MB)
+    - [TinyPNG](https://tinyPNG.com) (for images <5MB)
+    - [CompressPNG](https://compressPNG.com) (for images >5MB)
 
 
 | Source | Notes |
@@ -250,8 +250,8 @@ There are no remaining major differences between the local version when compared
 | [favicon.io](https://favicon.io) | Generating the favicon |
 | [Font Awesome](https://fontawesome.com) | Icons used throughout the site |
 | [Pexels](https://www.pexels.com/photo/white-brick-wall-1708852/) | Background Image
-| [TinyPNG](https://tinypng.com) | Compressing images < 5MB |
-| [CompressPNG](https://compresspng.com) | Compressing images > 5MB |
+| [TinyPNG](https://tinyPNG.com) | Compressing images < 5MB |
+| [CompressPNG](https://compressPNG.com) | Compressing images > 5MB |
 | [Looka](https://looka.com/editor/222104985) | Logo Generator
 
 ### Acknowledgements
