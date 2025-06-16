@@ -13,9 +13,9 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 | --- | --- | --- | --- | --- |
 |  | [404.html](https://github.com/Kearns55/milestone-project/blob/main/404.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/404.html) | ![screenshot](documentation/validation/html--404.PNG) ||
 |  | [about-me.html](https://github.com/Kearns55/milestone-project/blob/main/about-me.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/about-me.html) | ![screenshot](documentation/validation/html--about-me.PNG) |  Section Lacks Heading |
-|  | [commissions.html](https://github.com/Kearns55/milestone-project/blob/main/commissions.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/commissions.html) | ![screenshot](documentation/validation/html--commissions.png) |Section Lacks Heading |
-|  | [index.html](https://github.com/Kearns55/milestone-project/blob/main/index.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/index.html) | ![screenshot](documentation/validation/html--index.png) |  Section Lacks Heading|
-|  | [success.html](https://github.com/Kearns55/milestone-project/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/success.html) | ![screenshot](documentation/validation/html--success.png) | Section Lacks Heading |
+|  | [commissions.html](https://github.com/Kearns55/milestone-project/blob/main/commissions.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/commissions.html) | ![screenshot](documentation/validation/html--commissions.PNG) |Section Lacks Heading |
+|  | [index.html](https://github.com/Kearns55/milestone-project/blob/main/index.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/index.html) | ![screenshot](documentation/validation/html--index.PNG) |  Section Lacks Heading|
+|  | [success.html](https://github.com/Kearns55/milestone-project/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/success.html) | ![screenshot](documentation/validation/html--success.PNG) | Section Lacks Heading |
 
 
 ### CSS
@@ -24,7 +24,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | Directory | File | URL | Screenshot |
 | --- | --- | --- | --- |
-| assets | [style.css](https://github.com/Kearns55/milestone-project/blob/main/assets/css/style.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https://kearns55.github.io/milestone-project) | ![screenshot](documentation/validation/css-assets-style.png) 
+| assets | [style.css](https://github.com/Kearns55/milestone-project/blob/main/assets/css/style.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https://kearns55.github.io/milestone-project) | ![screenshot](documentation/validation/css-assets-style.PNG) 
 
 
 ## Responsiveness
@@ -33,10 +33,10 @@ I've tested my deployed project to check for responsiveness issues.
 
 | Page | Mobile | Tablet | Desktop | Notes |
 | --- | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/responsiveness/mobile-home.png) | ![screenshot](documentation/responsiveness/tablet-home.png) | ![screenshot](documentation/responsiveness/desktop-home.png) | Works as expected |
-| Commission | ![screenshot](documentation/responsiveness/mobile-commission.png) | ![screenshot](documentation/responsiveness/tablet-commission.png) | ![screenshot](documentation/responsiveness/desktop-commission.png) | Works as expected |
-| Success | ![screenshot](documentation/responsiveness/mobile-success.png) | ![screenshot](documentation/responsiveness/tablet-success.png) | ![screenshot](documentation/responsiveness/desktop-success.png) | Works as expected |
-| 404 | ![screenshot](documentation/responsiveness/mobile-404.png) | ![screenshot](documentation/responsiveness/tablet-404.png) | ![screenshot](documentation/responsiveness/desktop-404.png) | Works as expected |
+| Home | ![screenshot](documentation/responsiveness/mobile-home.PNG) | ![screenshot](documentation/responsiveness/tablet-home.PNG) | ![screenshot](documentation/responsiveness/desktop-home.PNG) | Works as expected |
+| Commission | ![screenshot](documentation/responsiveness/mobile-commission.PNG) | ![screenshot](documentation/responsiveness/tablet-commission.PNG) | ![screenshot](documentation/responsiveness/desktop-commission.PNG) | Works as expected |
+| Success | ![screenshot](documentation/responsiveness/mobile-success.PNG) | ![screenshot](documentation/responsiveness/tablet-success.PNG) | ![screenshot](documentation/responsiveness/desktop-success.PNG) | Works as expected |
+| 404 | ![screenshot](documentation/responsiveness/mobile-404.PNG) | ![screenshot](documentation/responsiveness/tablet-404.PNG) | ![screenshot](documentation/responsiveness/desktop-404.PNG) | Works as expected |
 
 ## Browser Compatibility
 
@@ -44,10 +44,10 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 | Page | Chrome | Brave | Safari | Notes |
 | --- | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/browsers/chrome-home.png) | ![screenshot](documentation/browsers/brave-home.png) | ![screenshot](documentation/browsers/safari-home.png) | Works as expected |
-| Commission | ![screenshot](documentation/browsers/chrome-commission.png) | ![screenshot](documentation/browsers/brave-commission.png) | ![screenshot](documentation/browsers/safari-commission.png) | Works as expected |
-| Success | ![screenshot](documentation/browsers/chrome-success.png) | ![screenshot](documentation/browsers/brave-success.png) | ![screenshot](documentation/browsers/safari-success.png) | Works as expected |
-| 404 | ![screenshot](documentation/browsers/chrome-404.png) | ![screenshot](documentation/browsers/brave-404.png) | ![screenshot](documentation/browsers/safari-404.png) | Works as expected |
+| Home | ![screenshot](documentation/browsers/chrome-home.PNG) | ![screenshot](documentation/browsers/brave-home.PNG) | ![screenshot](documentation/browsers/safari-home.PNG) | Works as expected |
+| Commission | ![screenshot](documentation/browsers/chrome-commission.PNG) | ![screenshot](documentation/browsers/brave-commission.PNG) | ![screenshot](documentation/browsers/safari-commission.PNG) | Works as expected |
+| Success | ![screenshot](documentation/browsers/chrome-success.PNG) | ![screenshot](documentation/browsers/brave-success.PNG) | ![screenshot](documentation/browsers/safari-success.PNG) | Works as expected |
+| 404 | ![screenshot](documentation/browsers/chrome-404.PNG) | ![screenshot](documentation/browsers/brave-404.PNG) | ![screenshot](documentation/browsers/safari-404.PNG) | Works as expected |
 
 ## Lighthouse Audit
 
@@ -55,10 +55,10 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Page | Mobile | Desktop |
 | --- | --- | --- |
-| Home | ![screenshot](documentation/lighthouse/mobile-home.png) | ![screenshot](documentation/lighthouse/desktop-home.png) |
-| Commission | ![screenshot](documentation/lighthouse/mobile-commission.png) | ![screenshot](documentation/lighthouse/desktop-commission.png) |
-| Success | ![screenshot](documentation/lighthouse/mobile-success.png) | ![screenshot](documentation/lighthouse/desktop-success.png) |
-| 404 | ![screenshot](documentation/lighthouse/mobile-404.png) | ![screenshot](documentation/lighthouse/desktop-404.png) |
+| Home | ![screenshot](documentation/lighthouse/mobile-home.PNG) | ![screenshot](documentation/lighthouse/desktop-home.PNG) |
+| Commission | ![screenshot](documentation/lighthouse/mobile-commission.PNG) | ![screenshot](documentation/lighthouse/desktop-commission.PNG) |
+| Success | ![screenshot](documentation/lighthouse/mobile-success.PNG) | ![screenshot](documentation/lighthouse/desktop-success.PNG) |
+| 404 | ![screenshot](documentation/lighthouse/mobile-404.PNG) | ![screenshot](documentation/lighthouse/desktop-404.PNG) |
 
 ## Defensive Programming
 
@@ -101,14 +101,14 @@ All previously closed/fixed bugs can be tracked [here](https://www.github.com/ke
 
 Any remaining open issues can be tracked [here](https://www.github.com/kearns55/milestone-project/issues).
 
-![screenshot](documentation/bugs/gh-issues-open.png)
+![screenshot](documentation/bugs/gh-issues-open.PNG)
 
 ### Known Issues
 
 | Issue | Screenshot |
 | --- | --- |
-| On devices smaller than 240px, the page starts to have horizontal `overflow-x` scrolling. | ![screenshot](documentation/bugs/overflow.png) |
-| When validating HTML with a semantic `<section>` element, the validator warns about lacking a header `h2-h6`. This is acceptable. | ![screenshot](documentation/bugs/section-header.png) |
+| On devices smaller than 240px, the page starts to have horizontal `overflow-x` scrolling. | ![screenshot](documentation/bugs/overflow.PNG) |
+| When validating HTML with a semantic `<section>` element, the validator warns about lacking a header `h2-h6`. This is acceptable. | ![screenshot](documentation/bugs/section-header.PNG) |
 
 > [!IMPORTANT]
 > There are no remaining bugs that I am aware of, though, even after thorough testing, I cannot rule out the possibility.
