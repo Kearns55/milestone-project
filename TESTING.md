@@ -66,20 +66,20 @@ Defensive programming was manually tested with the below user acceptance testing
 
 | Page | Expectation | Test | Result | Screenshot |
 | --- | --- |  --- |  --- |  --- |
-| Gallery | Feature is expected to showcase a gallery of my artwork. | Verified that the gallery contains clear images that aren't stretched, pixelated, and fully responsive. | Images are properly sized, and respond well to different device sizes. | ![screenshot](documentation/defensive/gallery.PNG) |
+| Gallery | Feature is expected to showcase a gallery of my artwork. | Verified that the gallery contains clear images that aren't stretched or pixelated and are fully responsive. | Images are properly sized, and respond well to different device sizes. | ![screenshot](documentation/defensive/gallery.PNG) |
 | Commission Form | Feature is expected to prevent submission of an empty form. | Attempted to submit the form without filling any fields. | Form submission was blocked, as expected. | ![screenshot](documentation/defensive/commission01.PNG) |
 | | Feature is expected to enforce valid input types for each field. | Entered invalid data (e.g., random text in an email field, numbers in a name field, etc.). | Error messages were displayed appropriately, and submission was blocked. | ![screenshot](documentation/defensive/commission02.PNG) |
-| Social Links | Feature is expected to include working links to the club’s social platforms (Instagram, Facebook, etc.). | Clicked each social link to verify redirection to the correct platform page. | All links redirected to the correct platform pages, opening in new browser tabs. | ![screenshot](documentation/defensive/socialmedia.PNG) |
+| Social Links | Feature is expected to include working links to my art social platforms (Instagram, Facebook, etc.). | Clicked each social link to verify redirection to the correct platform page. | All links redirected to the correct platform pages, opening in new browser tabs. | ![screenshot](documentation/defensive/socialmedia.PNG) |
 | 404 Error Page | Feature is expected to display a 404 error page for non-existent pages. | Navigated to an invalid URL (e.g., `/test`) to test error handling. | A custom 404 error page was displayed as expected. | ![screenshot](documentation/defensive/404.PNG) |
 
 ## User Story Testing
 
 | Target | Expectation | Outcome | Screenshot | 
 | --- | --- | --- | --- | 
-| As a user | I would like to see high quality images of the art. | so that I can descide if I want to commission my own piece. | ![screenshot](documentation/features/gallery.PNG) |
+| As a user | I would like to see high quality images of the art | so that I can decide if I want to commission my own piece. | ![screenshot](documentation/features/gallery.PNG) |
  As a user | I would like to learn more about the artist through an about me page | so that I can be more engaged. | ![screenshot](documentation/features/about-me.PNG) |
 | As a collector | I would like to be able to request my own art work | so that I can support the artist. | ![screenshot](documentation/features/commission.PNG) |
-| As a user | I would like to be able to find the artist on soclai media easily | so that I can keep up with their art| ![screenshot](documentation/features/footer.PNG) |
+| As a user | I would like to be able to find the artist on social media easily | so that I can keep up with their art| ![screenshot](documentation/features/footer.PNG) |
 | As a user | I would like the website to be fully responsive | so that I can easily navigate and access information from my phone, tablet, or desktop. | ![screenshot](documentation/responsiveness/mobile-home.PNG) |
 | As a user | I would like to see a 404 error page if I get lost | so that it's obvious that I've stumbled upon a page that doesn't exist. | ![screenshot](documentation/features/404.PNG) |
 

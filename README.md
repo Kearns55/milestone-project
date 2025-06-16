@@ -9,7 +9,7 @@ Developer: Rebekah Kearns ([kearns55](https://www.github.com/kearns55))
 
 
 # Overview:
-*I decided to make a portfolio website for my art as my first project because painting and coding are two of my biggest passions, also being able to showcase my coding skills alongside my paintings makes me very proud. I hope in the future I can make more creative based websites and more portfolios for other artists.This project has taken a lot of time and effort to produce and I hope you love it as much as I do!*
+*I decided to make a portfolio website for my art as my first project because painting and coding are two of my biggest passions, also being able to showcase my coding skills alongside my paintings makes me very proud. I hope in the future I can make more creative based websites and more portfolios for other artists. This project has taken a lot of time and effort to produce and I hope you love it as much as I do!*
 
 
 ![screenshot](documentation/responsiveness/site-mock-up.PNG)
@@ -41,7 +41,7 @@ source: [milestone-project amiresponsive](https://ui.dev/amiresponsive?url=https
 **Content Requirements**
 - Informative "about me" page to engage and interest visitors of the site.
 - Photos showcasing my art.
-- Commission form for users to fill out and rquest their very own piece.
+- Commission form for users to fill out and request their very own piece.
 
 #### 3. Structure
 
@@ -103,10 +103,10 @@ I've used Procreate (https://procreate.com) to design my site wireframes.
 
 | Target | Expectation | Outcome |
 | --- | --- | --- |
-| As a user | I would like to see high quality images of the art. | so that I can descide if I want to commission my own piece. |
+| As a user | I would like to see high quality images of the art. | so that I can decide if I want to commission my own piece. |
 | As a user | I would like to learn more about the artist through an about me page | so that I can be more engaged. |
 | As a collector | I would like to be able to request my own art work | so that I can support the artist. |
-| As a user | I would like to be able to find the artist on soclai media easily | so that I can keep up with their art|
+| As a user | I would like to be able to find the artist on social media easily | so that I can keep up with their art|
 | As a user | I would like the website to be fully responsive | so that I can easily navigate and access information from my phone, tablet, or desktop. |
 | As a user | I would like to see a 404 error page if I get lost | so that it's obvious that I've stumbled upon a page that doesn't exist. |
 
@@ -125,7 +125,7 @@ I've used Procreate (https://procreate.com) to design my site wireframes.
 
 ### Future Features
 
-- **Newsletter Sign Up**: Allow users to sign up to a newsletter to inform them of future exhibitions that I would be apart of.
+- **Newsletter Sign Up**: Allow users to sign up to a newsletter to inform them of future exhibitions that I would be a part of.
 - **Merchandise Purchasing**: Make an e-commerce page on the site to sell merchandise with the Wearns Works logo or past art pieces as prints.
 
 ## Tools & Technologies
