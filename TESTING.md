@@ -11,8 +11,8 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Directory | File | URL | Screenshot | Notes |
 | --- | --- | --- | --- | --- |
-|  | [404.html](https://github.com/Kearns55/milestone-project/blob/main/404.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/404.html) | ![screenshot](documentation/validation/html--404.png) ||
-|  | [about-me.html](https://github.com/Kearns55/milestone-project/blob/main/about-me.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/about-me.html) | ![screenshot](documentation/validation/html--about-me.png) |  Section Lacks Heading |
+|  | [404.html](https://github.com/Kearns55/milestone-project/blob/main/404.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/404.html) | ![screenshot](documentation/validation/html--404.PNG) ||
+|  | [about-me.html](https://github.com/Kearns55/milestone-project/blob/main/about-me.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/about-me.html) | ![screenshot](documentation/validation/html--about-me.PNG) |  Section Lacks Heading |
 |  | [commissions.html](https://github.com/Kearns55/milestone-project/blob/main/commissions.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/commissions.html) | ![screenshot](documentation/validation/html--commissions.png) |Section Lacks Heading |
 |  | [index.html](https://github.com/Kearns55/milestone-project/blob/main/index.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/index.html) | ![screenshot](documentation/validation/html--index.png) |  Section Lacks Heading|
 |  | [success.html](https://github.com/Kearns55/milestone-project/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://kearns55.github.io/milestone-project/success.html) | ![screenshot](documentation/validation/html--success.png) | Section Lacks Heading |
@@ -66,11 +66,11 @@ Defensive programming was manually tested with the below user acceptance testing
 
 | Page | Expectation | Test | Result | Screenshot |
 | --- | --- |  --- |  --- |  --- |
-| Gallery | Feature is expected to showcase a gallery of my artwork. | Verified that the gallery contains clear images that aren't stretched, pixelated, and fully responsive. | Images are properly sized, and respond well to different device sizes. | ![screenshot](documentation/defensive/gallery.png) |
-| Commission Form | Feature is expected to prevent submission of an empty form. | Attempted to submit the form without filling any fields. | Form submission was blocked, as expected. | ![screenshot](documentation/defensive/commission01.png) |
-| | Feature is expected to enforce valid input types for each field. | Entered invalid data (e.g., random text in an email field, numbers in a name field, etc.). | Error messages were displayed appropriately, and submission was blocked. | ![screenshot](documentation/defensive/commission02.png) |
-| Social Links | Feature is expected to include working links to the club’s social platforms (Instagram, Facebook, etc.). | Clicked each social link to verify redirection to the correct platform page. | All links redirected to the correct platform pages, opening in new browser tabs. | ![screenshot](documentation/defensive/socialmedia.png) |
-| 404 Error Page | Feature is expected to display a 404 error page for non-existent pages. | Navigated to an invalid URL (e.g., `/test`) to test error handling. | A custom 404 error page was displayed as expected. | ![screenshot](documentation/defensive/404.png) |
+| Gallery | Feature is expected to showcase a gallery of my artwork. | Verified that the gallery contains clear images that aren't stretched, pixelated, and fully responsive. | Images are properly sized, and respond well to different device sizes. | ![screenshot](documentation/defensive/gallery.PNG) |
+| Commission Form | Feature is expected to prevent submission of an empty form. | Attempted to submit the form without filling any fields. | Form submission was blocked, as expected. | ![screenshot](documentation/defensive/commission01.PNG) |
+| | Feature is expected to enforce valid input types for each field. | Entered invalid data (e.g., random text in an email field, numbers in a name field, etc.). | Error messages were displayed appropriately, and submission was blocked. | ![screenshot](documentation/defensive/commission02.PNG) |
+| Social Links | Feature is expected to include working links to the club’s social platforms (Instagram, Facebook, etc.). | Clicked each social link to verify redirection to the correct platform page. | All links redirected to the correct platform pages, opening in new browser tabs. | ![screenshot](documentation/defensive/socialmedia.PNG) |
+| 404 Error Page | Feature is expected to display a 404 error page for non-existent pages. | Navigated to an invalid URL (e.g., `/test`) to test error handling. | A custom 404 error page was displayed as expected. | ![screenshot](documentation/defensive/404.PNG) |
 
 ## User Story Testing
 
@@ -85,20 +85,6 @@ Defensive programming was manually tested with the below user acceptance testing
 
 ## Bugs
 
-⚠️ INSTRUCTIONS ⚠️
-
-Nobody likes bugs,... except the assessors! Projects seem more suspicious if a student doesn't properly track their bugs. If you're about to submit your project without any bugs listed below, you should ask yourself why you're doing this course in the first place, if you're able to build this entire application without running into any bugs. The best thing you can do for any project is to document your bugs! Not only does it show the true stages of development, but think of it as breadcrumbs for yourself in the future, should you encounter the same/similar bug again, it acts as a gentle reminder on what you did to fix the bug.
-
-If/when you encounter bugs during the development stages of your project, you should document them here, ideally with a screenshot explaining what the issue was, and what you did to fix the bug.
-
-Alternatively, an improved way to manage bugs is to use the built-in **[Issues](https://www.github.com/kearns55/milestone-project/issues)** tracker on your GitHub repository. This can be found at the top of your repository, the tab called "Issues".
-
-If using the Issues tracker for bug management, you can simplify the documentation process for testing. Issues allow you to directly paste screenshots into the issue page without having to first save the screenshot locally. You can add labels to your issues (e.g. `bug`), assign yourself as the owner, and add comments/updates as you progress with fixing the issue(s). Once you've solved the issue/bug, you should then "Close" it.
-
-When showcasing your bug tracking for assessment, you can use the following examples below.
-
-⚠️ --- END --- ⚠️
-
 ### Fixed Bugs
 
 [![GitHub issue custom search](https://img.shields.io/github/issues-search?query=repo%3Akearns55%2Fmilestone-project%20label%3Abug&label=bugs)](https://www.github.com/kearns55/milestone-project/issues?q=is%3Aissue+is%3Aclosed+label%3Abug)
@@ -107,17 +93,9 @@ I've used [GitHub Issues](https://www.github.com/kearns55/milestone-project/issu
 
 All previously closed/fixed bugs can be tracked [here](https://www.github.com/kearns55/milestone-project/issues?q=is%3Aissue+is%3Aclosed+label%3Abug).
 
-![screenshot](documentation/bugs/gh-issues-closed.png)
+![screenshot](documentation/bugs/gh-issues-closed.PNG)
 
 ### Unfixed Bugs
-
-⚠️ INSTRUCTIONS ⚠️
-
-You will need to mention any unfixed bugs and why they are not fixed upon submission of your project. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. Where possible, you must fix all outstanding bugs, unless outside of your control.
-
-If you've identified any unfixed bugs, no matter how small, be sure to list them here! It's better to be honest and list them, because if it's not documented and an assessor finds the issue, they need to know whether or not you're aware of them as well, and why you've not corrected/fixed them.
-
-⚠️ --- END --- ⚠️
 
 [![GitHub issues](https://img.shields.io/github/issues/kearns55/milestone-project)](https://www.github.com/kearns55/milestone-project/issues)
 
@@ -129,8 +107,8 @@ Any remaining open issues can be tracked [here](https://www.github.com/kearns55/
 
 | Issue | Screenshot |
 | --- | --- |
-| On devices smaller than 375px, the page starts to have horizontal `overflow-x` scrolling. | ![screenshot](documentation/issues/overflow.png) |
-| When validating HTML with a semantic `<section>` element, the validator warns about lacking a header `h2-h6`. This is acceptable. | ![screenshot](documentation/issues/section-header.png) |
+| On devices smaller than 240px, the page starts to have horizontal `overflow-x` scrolling. | ![screenshot](documentation/bugs/overflow.png) |
+| When validating HTML with a semantic `<section>` element, the validator warns about lacking a header `h2-h6`. This is acceptable. | ![screenshot](documentation/bugs/section-header.png) |
 
 > [!IMPORTANT]
 > There are no remaining bugs that I am aware of, though, even after thorough testing, I cannot rule out the possibility.
